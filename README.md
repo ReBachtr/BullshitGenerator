@@ -2,8 +2,11 @@
 # BullshitReply
 
 微信自动回复狗屁不通文章脚本 wechatreply.py
+
 运行后扫码登陆微信就OK
+
 会进一步更新
+
 目前可能存在问题，申请较晚的微信账户受限于api可能无法登陆无法时候
 
 # BullshitGenerator
