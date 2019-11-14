@@ -3,7 +3,7 @@
 
 微信自动回复狗屁不通文章脚本 wechatreply.py
 
-运行后扫码登陆微信就OK
+运行后扫码登陆微信就OK，依赖 ![itchat](https://github.com/littlecodersh/ItChat)库需要手动安装
 
 会进一步更新
 
